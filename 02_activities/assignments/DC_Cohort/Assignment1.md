@@ -209,5 +209,15 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+One point that stood out to me from the article is the extent to which rules embedded in databases can shape how people's identities and circumstances are represented. With the increasing transition to digital data management systems across many sectors, more people may find themselves in situations similar to Riz's. I had a similar experience while completing my Canadian student visa application. I was required to provide information about my parents' occupations, but I struggled to find a category that accurately described what my mother does.
+
+In Nigeria, many women contribute financially to their households through small, informal businesses that are not necessarily registered. My mother, for example, owns a grocery store in our neighbourhood. Her business provides an important service to the community by making everyday necessities accessible, reducing the need for people to travel long distances to larger markets. It also contributes to our household income and the local economy.
+
+However, none of the occupation categories available on the application accurately reflected my mother's work, so I had to select "homemaker." While she is a homemaker, this description overlooks her role as a businesswoman and her financial contributions to our family.
+
+Reading the article made me realize how database design can reflect particular cultural and economic assumptions. The available categories seemed to recognize formal employment more readily than informal economic activities, which are common in Nigeria and many other countries. As a result, such systems can unintentionally marginalize people whose livelihoods do not fit these predefined classifications, particularly women working in the informal economy.
+
+This also raises questions about fairness and representation. If information collected through these systems is used to assess an applicant's financial circumstances or family background, an incomplete description could potentially influence how their situation is understood.
+
+Since digital systems are now integral to our daily lives, I believe the solution is to design them with greater flexibility and inclusivity. For example, adding an "Other (please specify)" option, recognizing informal businesses as a category of employment, or allowing applicants to describe their occupations could help ensure that people's circumstances are represented more accurately.
 ```
